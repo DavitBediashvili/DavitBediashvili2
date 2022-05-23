@@ -1,5 +1,5 @@
 ### Hello there 👋
-![Alt Text](https://c.tenor.com/49ONRBTWhw4AAAAd/star-wars-hello-there.gif)
+![Alt Text](https://i.imgur.com/rpSqyMf.gif)
 
 This code has two main features:
 
