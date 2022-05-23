@@ -1,4 +1,4 @@
-# ### Hello there 👋
+### Hello there 👋
 ![Alt Text](https://d3dfsf9oc1ojzp.cloudfront.net/original/4X/0/9/d/09d09a63ee93ff3e8bafbd2b91b36afb0bbdc1be.gif)
 
 This code has two main features:
